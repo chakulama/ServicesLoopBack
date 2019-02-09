@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Persona": 2
+  },
+  "models": {
+    "Persona": {
+      "Binod": "{\"Nombre\":\"Binod\",\"Password\":\"AAA\",\"Rol\":\"Student\",\"Puntos\":0}"
+    }
+  }
+}
