@@ -4,7 +4,12 @@
   },
   "models": {
     "Persona": {
-      "Binod": "{\"Nombre\":\"Binod\",\"Password\":\"AAA\",\"Rol\":\"Student\",\"Puntos\":0}"
+      "Binod": "{\"Nombre\":\"Binod\",\"Password\":\"AAA\",\"Rol\":\"Student\",\"Puntos\":0}",
+      "Sabin": "{\"Nombre\":\"Sabin\",\"Password\":\"BBB\",\"Rol\":\"Student\",\"Puntos\":0}",
+      "Yelan": "{\"Nombre\":\"Yelan\",\"Password\":\"CCC\",\"Rol\":\"Student\",\"Puntos\":0}",
+      "Jni": "{\"Nombre\":\"Jni\",\"Password\":\"DDD\",\"Rol\":\"Student\",\"Puntos\":0}",
+      "Miguel": "{\"Miguel\":\"Binod\",\"Password\":\"EEE\",\"Rol\":\"Profesor\",\"Puntos\":0}",
+      "Bishal": "{\"Bishal\":\"Binod\",\"Password\":\"FFF\",\"Rol\":\"Student\",\"Puntos\":0}"
     }
   }
 }
