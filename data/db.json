@@ -1,15 +1,14 @@
 {
   "ids": {
-    "Persona": 2
+    "Persona": 5
   },
   "models": {
     "Persona": {
-      "Binod": "{\"Nombre\":\"Binod\",\"Password\":\"AAA\",\"Rol\":\"Student\",\"Puntos\":0}",
-      "Sabin": "{\"Nombre\":\"Sabin\",\"Password\":\"BBB\",\"Rol\":\"Student\",\"Puntos\":0}",
-      "Yelan": "{\"Nombre\":\"Yelan\",\"Password\":\"CCC\",\"Rol\":\"Student\",\"Puntos\":0}",
-      "Jni": "{\"Nombre\":\"Jni\",\"Password\":\"DDD\",\"Rol\":\"Student\",\"Puntos\":0}",
-      "Miguel": "{\"Miguel\":\"Binod\",\"Password\":\"EEE\",\"Rol\":\"Profesor\",\"Puntos\":0}",
-      "Bishal": "{\"Bishal\":\"Binod\",\"Password\":\"FFF\",\"Rol\":\"Student\",\"Puntos\":0}"
+      "Binod": "{\"nombre\":\"Binod\",\"password\":\"AAA\",\"rol\":\"Student\",\"puntos\":0}",
+      "Sabin": "{\"nombre\":\"Sabin\",\"password\":\"BBB\",\"rol\":\"Student\",\"puntos\":0}",
+      "Yelan": "{\"nombre\":\"Yelan\",\"password\":\"CCC\",\"rol\":\"Student\",\"puntos\":0}",
+      "Bishal": "{\"nombre\":\"Bishal\",\"password\":\"DDD\",\"rol\":\"Student\",\"puntos\":0}",
+      "Miguel": "{\"nombre\":\"Miguel\",\"password\":\"FFF\",\"rol\":\"Profesor\",\"puntos\":0}"
     }
   }
 }

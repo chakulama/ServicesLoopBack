@@ -7,25 +7,25 @@ export class Persona extends Entity {
     id: true,
     required: true,
   })
-  Nombre: string;
+  nombre: string;
 
   @property({
     type: 'string',
     required: true,
   })
-  Password: string;
+  password: string;
 
   @property({
     type: 'string',
     required: true,
   })
-  Rol: string;
+  rol: string;
 
   @property({
     type: 'number',
     required: true,
   })
-  Puntos: number;
+  puntos: number;
 
 
   constructor(data?: Partial<Persona>) {
