@@ -1,14 +1,13 @@
 {
   "ids": {
-    "Persona": 5
+    "Persona": 8
   },
   "models": {
     "Persona": {
-      "Binod": "{\"nombre\":\"Binod\",\"password\":\"AAA\",\"rol\":\"Student\",\"puntos\":0}",
-      "Sabin": "{\"nombre\":\"Sabin\",\"password\":\"BBB\",\"rol\":\"Student\",\"puntos\":0}",
-      "Yelan": "{\"nombre\":\"Yelan\",\"password\":\"CCC\",\"rol\":\"Student\",\"puntos\":0}",
-      "Bishal": "{\"nombre\":\"Bishal\",\"password\":\"DDD\",\"rol\":\"Student\",\"puntos\":0}",
-      "Miguel": "{\"nombre\":\"Miguel\",\"password\":\"FFF\",\"rol\":\"Profesor\",\"puntos\":0}"
+      "Yelan": "{\"nombre\":\"Yelan\",\"password\":\"CCC\",\"rol\":\"Student\",\"puntos\":4}",
+      "aaaa": "{\"nombre\":\"aaaa\",\"password\":\"aaa\",\"rol\":\"Student\",\"puntos\":6}",
+      "Binod": "{\"nombre\":\"Binod\",\"password\":\"AAA\",\"rol\":\"Student\",\"puntos\":2}",
+      "Sabin": "{\"nombre\":\"Sabin\",\"password\":\"SSS\",\"rol\":\"Student\",\"puntos\":0}"
     }
   }
 }
