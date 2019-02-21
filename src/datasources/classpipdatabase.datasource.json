@@ -1,0 +1,10 @@
+{
+  "name": "classpipdatabase",
+  "connector": "mysql",
+  "url": "root",
+  "host": "localhost",
+  "port": 3306,
+  "user": "root",
+  "password": "Pokhara15",
+  "database": "classpipdatabase"
+}

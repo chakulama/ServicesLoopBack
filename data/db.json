@@ -1,13 +1,14 @@
 {
   "ids": {
-    "Persona": 8
+    "Persona": 9
   },
   "models": {
     "Persona": {
       "Yelan": "{\"nombre\":\"Yelan\",\"password\":\"CCC\",\"rol\":\"Student\",\"puntos\":4}",
       "aaaa": "{\"nombre\":\"aaaa\",\"password\":\"aaa\",\"rol\":\"Student\",\"puntos\":6}",
-      "Binod": "{\"nombre\":\"Binod\",\"password\":\"AAA\",\"rol\":\"Student\",\"puntos\":2}",
-      "Sabin": "{\"nombre\":\"Sabin\",\"password\":\"SSS\",\"rol\":\"Student\",\"puntos\":0}"
+      "Binod": "{\"nombre\":\"Binod\",\"password\":\"AAA\",\"rol\":\"Student\",\"puntos\":4}",
+      "Sabin": "{\"nombre\":\"Sabin\",\"password\":\"SSS\",\"rol\":\"Student\",\"puntos\":3}",
+      "Miguel": "{\"nombre\":\"Miguel\",\"password\":\"EEE\",\"rol\":\"Profesor\",\"puntos\":0}"
     }
   }
 }
